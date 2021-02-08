@@ -21,6 +21,8 @@ Determine if there are structural differences between the sites bound by both Sc
 ## Data
 Data|Citation
 -----|------
+Nucleosome Occupancy|[Zhou & O'Shea 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127084/)
+-----|------
 ## Analysis
 ## Citation and Expected Figure
 
