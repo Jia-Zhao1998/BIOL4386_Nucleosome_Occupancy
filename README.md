@@ -19,7 +19,8 @@ Why are some genomic sites only bound by *C. glabrata( Pho4 but not *S. cerevisi
 Determine if there are structural differences between the sites bound by both ScPho4 and CgPho4, vs those only accessible to CgPho4, in *S. cerevisiae* background.
 
 ## Data
-|Data----|Citation-------|
+Data|Citation
+-----|------
 ## Analysis
 ## Citation and Expected Figure
 
