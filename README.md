@@ -19,10 +19,10 @@ Why are some genomic sites only bound by *C. glabrata( Pho4 but not *S. cerevisi
 Determine if there are structural differences between the sites bound by both ScPho4 and CgPho4, vs those only accessible to CgPho4, in *S. cerevisiae* background.
 
 ## Data
-Data|Citation
+Data|Citation|Purpose
 -----|------
-Nucleosome Occupancy|[Zhou & O'Shea 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127084/)
------|------
+Nucleosome Occupancy|[Zhou & O'Shea 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127084/)|To get the nucleosome occupany data
+Binding sites of Pho4|[He et al 2017](https://elifesciences.org/articles/25157)| 115 sites for CgPho4; 74 sites for ScPho4
 ## Analysis
 ## Citation and Expected Figure
 
