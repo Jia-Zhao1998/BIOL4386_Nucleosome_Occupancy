@@ -25,9 +25,15 @@ Nucleosome Occupancy|[Zhou & O'Shea 2011](https://www.ncbi.nlm.nih.gov/pmc/artic
 Binding sites of Pho4|[He et al 2017](https://elifesciences.org/articles/25157)| 115 sites for CgPho4; 74 sites for ScPho4
 Genome Sequence|SGD Website|the genome coordinates of the above table is based on S. cerevisiae genome R64-2-1, which is based on genome sequences of R64-1-1
 ## Analysis
+1. Mapping Promoter position as the X-axis
+2. Using RNA-seq data to produce nucleosome occupancy data from FAFSA file (see data). Use both high Pi (starting state before Pho4 takes effects) and low Pi conditions. Mapping the nucleosome occupancy data
+3. Finding and mapping Motif location. 
+4. (Optional) Motif conservation within the sensu stricto species (the solid vs light shade in the PHO5 figure)
 ## Citation and Expected Figure
 
 Lam, F., Steger, D. & O’Shea, E. Chromatin decouples promoter threshold from dynamic range. Nature 453, 246–250 (2008). [https://doi.org/10.1038/nature06867](https://doi.org/10.1038/nature06867)
 
 The expected figure would look like this. I plan to produce many figures to cover all binding sites of CgPho4 and ScPho4 under PHO to answer my biological question.
+
 ![x](https://github.com/binhe-lab/C016-Pho4-binding-difference/blob/master/docs/images/Lam_et_al_2008_fig_2a.png)
+x axis is genomic coordinates of *S. cerevisiae PHO5*. Red triangles stands for high affinity motifs CACGTG, while blue circles represent low affinity motifs, which are 1-bp off motifs (i.e. CACTTG). The transparency is the conservity of motifs. Less transparent means more conserve. y axis measures the nucleosome occupancy. Higer y value means the higher nucleosome occupancy. The non-consensus motif (blue circle at -400) corresponses to a low nucleosome occupancy; in contrast, the red triangle (consensus motif) is under a nucleosome occupancy peak. This indicates this consensus motif is covered by a nucleosome. 
