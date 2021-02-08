@@ -1,5 +1,5 @@
 # BIOL4386_Jia_Zhao_Spring2021_Nucleosome_Occupancy
-This is for the course BIOL:4386: Intro to scientific computing in Spring 2021. This repository aims at following up C16 Nucleosome Occupancy Project. 
+This is for the course BIOL:4386: Intro to scientific computing in Spring 2021. This repository aims at following up C16 Nucleosome Occupancy Project and based on Bin He's repository [C016-Pho4-binding_difference.](https://github.com/binhe-lab/C016-Pho4-binding-difference) 
 
 This project is unpublished and is originally from Dr. Bin He. Here is **background, the biological question, the nature of the data, and the type of analyses I plan to perform.**
 
@@ -28,3 +28,6 @@ Genome Sequence|SGD Website|the genome coordinates of the above table is based o
 ## Citation and Expected Figure
 
 Lam, F., Steger, D. & O’Shea, E. Chromatin decouples promoter threshold from dynamic range. Nature 453, 246–250 (2008). [https://doi.org/10.1038/nature06867](https://doi.org/10.1038/nature06867)
+
+The expected figure would look like this. I plan to produce many figures to cover all binding sites of CgPho4 and ScPho4 under PHO to answer my biological question.
+![x](https://github.com/binhe-lab/C016-Pho4-binding-difference/blob/master/docs/images/Lam_et_al_2008_fig_2a.png)
