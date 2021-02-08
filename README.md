@@ -6,6 +6,7 @@ This project is unpublished and is originally from Dr. Bin He. Here is **backgro
 ## Background
 ***Sacchromyces cerevisiae* or *S. cerevisiae***, the baker's yeast, is closely related to the second-most common yeast pathogen ***Candida glabrata* or *C. glabrata***. These two yeast species share over **90% 1-to-1 orthologs but occupy different ecological niches**. This phenotypic difference is contributed tremendously by their distint gene regulatory networks. To get a better understanding of gene regulatory networks and how they evolve, we study phosphate starvation stress response (PHO), which is a well-established and typical model for studying stress responses. The main transcription factor involved in PHO is named Pho4. *S. cerevisiae* Pho4 or ScPho4 binds **74** promoter sites under phosphate starvation conditions; in contrast, *C. glabrata* Pho4 or CgPho4 binds to **115** promoter sites in the same genomic background ([*He et al, 2017*](https://elifesciences.org/articles/25157)). This difference is not due to factors, including the presence of concensus motifs **CACGTG**. Our hypothesis is CgPho4 is more capable of binding to nucleosome-occluded promoter sites compared with ScPho4.
 
+![x](https://raw.githubusercontent.com/binhe-lab/C016-Pho4-binding-difference/master/docs/images/Lam_et_al_2008_fig_3.png)
 
 ## Biological Question
 ## Data
