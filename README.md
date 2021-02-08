@@ -20,7 +20,7 @@ Determine if there are structural differences between the sites bound by both Sc
 
 ## Data
 Data|Citation|Purpose
------|------
+-----|------|--------
 Nucleosome Occupancy|[Zhou & O'Shea 2011](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3127084/)|To get the nucleosome occupany data
 Binding sites of Pho4|[He et al 2017](https://elifesciences.org/articles/25157)| 115 sites for CgPho4; 74 sites for ScPho4
 ## Analysis
